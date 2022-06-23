@@ -20,17 +20,17 @@
   },
   "m_u@2GeV": {
     "value":       2.16e-3,
-    "uncertainty": [+0.49e-3, -0.26e-3],
+    "uncertainty": [0.49e-3, -0.26e-3],
     "description": "GeV, PDG2022, m_up in MS-bar scheme at 2 GeV"
   },
   "m_d@2GeV": {
     "value":       4.67e-3,
-    "uncertainty": [+0.48e-3, -0.17e-3],
+    "uncertainty": [0.48e-3, -0.17e-3],
     "description": "GeV, PDG2022, m_down in MS-bar scheme at 2 GeV"
   },
   "m_s@2GeV": {
     "value":       94.3e-3,
-    "uncertainty": [+8.6e-3, -3.4e-3],
+    "uncertainty": [8.6e-3, -3.4e-3],
     "description": "GeV, PDG2022, m_strange in MS-bar scheme at 2 GeV"
   },
   "m_c@m_c": {
@@ -40,12 +40,12 @@
   },
   "m_b@m_b": {
     "value":       4.18,
-    "uncertainty": [+0.03, -0.02],
+    "uncertainty": [0.03, -0.02],
     "description": "GeV, PDG2022, m_b in MS-bar scheme at m_b, correspond to the pole mass 4.78(6) GeV"
   },
   "m_t@m_t": {
     "value":       162.5,
-    "uncertainty": [+2.1, -1.5],
+    "uncertainty": [2.1, -1.5],
     "description": "GeV, PDG2022, MS-bar top mass from cross-section measurements"
   },
   "m_t": {
